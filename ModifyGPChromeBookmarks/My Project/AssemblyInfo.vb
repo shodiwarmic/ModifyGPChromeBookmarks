@@ -8,9 +8,9 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ModifyGPChromeBookmarks")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyTitle("Modify Group Policy Chrome Bookmarks")>
+<Assembly: AssemblyDescription("Used to modify Google Chrome managed bookmarks deployed with Group Policy")>
+<Assembly: AssemblyCompany("Jonathan Perry - Norwich Public Schools")>
 <Assembly: AssemblyProduct("ModifyGPChromeBookmarks")>
 <Assembly: AssemblyCopyright("Copyright ©  2017")>
 <Assembly: AssemblyTrademark("")>
